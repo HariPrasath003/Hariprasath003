@@ -1,6 +1,7 @@
+[![MasterHead](https://blog.hubspot.com/hs-fs/hubfs/7a8f8d634013568124e130728834d47a.gif?width=1500&name=7a8f8d634013568124e130728834d47a.gif)](https://https://github.com/HariPrasath003)
 <h1 align="center">Hi 👋, I'm Hariprasath</h1>
 <h3 align="center">Computer Science Engineering Student | Passionate about Technology and Software Development |</h3>
-<img align = "right" alt="coding" width="400" src= "https://miro.medium.com/v2/resize:fit:800/1*x_QoyMk9Rcc-AaoXXjSHtQ.png">
+<img align = "right" alt="coding" width="400" src= "https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariprasath003&label=Profile%20views&color=0e75b6&style=flat" alt="hariprasath003" /> </p>
 
