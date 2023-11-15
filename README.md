@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Spring and Cloud Computing**
 
-- 🌱 I’m currently learning **Java and Azure**
+- 🌱 I’m currently learning **Java and Cloud**
 
 - 💬 Ask me about **Programming and DSA**
 
