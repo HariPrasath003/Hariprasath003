@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariprasath003&label=Profile%20views&color=0e75b6&style=flat" alt="hariprasath003" /> </p>
 
-- 🔭 I’m currently working on **Spring and Cloud Computing**
+- 🔭 I’m currently working on **Linux and Cloud **
+ 
+- 🌱 I’m currently learning **Java,Cloud and Linux**
 
-- 🌱 I’m currently learning **Java and Cloud**
-
-- 💬 Ask me about **Programming and DSA**
+- 💬 Ask me about **Programming,DSA and Linux**
 
 - 📫 How to reach me **hariprasath1115@gmail.com**
 
